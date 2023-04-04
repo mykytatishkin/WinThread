@@ -1,0 +1,17 @@
+C:\Users\Mykyta\source\repos\WinThread\WinThread\bin\Debug\net6.0-windows\WinThread.exe
+C:\Users\Mykyta\source\repos\WinThread\WinThread\bin\Debug\net6.0-windows\WinThread.deps.json
+C:\Users\Mykyta\source\repos\WinThread\WinThread\bin\Debug\net6.0-windows\WinThread.runtimeconfig.json
+C:\Users\Mykyta\source\repos\WinThread\WinThread\bin\Debug\net6.0-windows\WinThread.dll
+C:\Users\Mykyta\source\repos\WinThread\WinThread\bin\Debug\net6.0-windows\WinThread.pdb
+C:\Users\Mykyta\source\repos\WinThread\WinThread\obj\Debug\net6.0-windows\WinThread.csproj.AssemblyReference.cache
+C:\Users\Mykyta\source\repos\WinThread\WinThread\obj\Debug\net6.0-windows\WinThread.Form1.resources
+C:\Users\Mykyta\source\repos\WinThread\WinThread\obj\Debug\net6.0-windows\WinThread.csproj.GenerateResource.cache
+C:\Users\Mykyta\source\repos\WinThread\WinThread\obj\Debug\net6.0-windows\WinThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mykyta\source\repos\WinThread\WinThread\obj\Debug\net6.0-windows\WinThread.AssemblyInfoInputs.cache
+C:\Users\Mykyta\source\repos\WinThread\WinThread\obj\Debug\net6.0-windows\WinThread.AssemblyInfo.cs
+C:\Users\Mykyta\source\repos\WinThread\WinThread\obj\Debug\net6.0-windows\WinThread.csproj.CoreCompileInputs.cache
+C:\Users\Mykyta\source\repos\WinThread\WinThread\obj\Debug\net6.0-windows\WinThread.dll
+C:\Users\Mykyta\source\repos\WinThread\WinThread\obj\Debug\net6.0-windows\refint\WinThread.dll
+C:\Users\Mykyta\source\repos\WinThread\WinThread\obj\Debug\net6.0-windows\WinThread.pdb
+C:\Users\Mykyta\source\repos\WinThread\WinThread\obj\Debug\net6.0-windows\WinThread.genruntimeconfig.cache
+C:\Users\Mykyta\source\repos\WinThread\WinThread\obj\Debug\net6.0-windows\ref\WinThread.dll
